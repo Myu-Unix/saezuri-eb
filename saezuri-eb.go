@@ -412,7 +412,7 @@ func main() {
   	if err != nil {
                 log.Fatal(err)
         }
-        if err := ebiten.Run(update, 360, 480, 1.0, "Saezuri"); err != nil {
+        if err := ebiten.Run(update, 360, 480, 1.0, "Saezuri-eb"); err != nil {
                 log.Fatal(err)
         }
 }
