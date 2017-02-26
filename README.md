@@ -10,7 +10,7 @@ It's an unfinished toy client so don't expect it to be useful. It works well to 
 
 #### What is it bad for ?
 
-Everything not listen in *What is it good for ?* :)
+Everything not listed in *What is it good for ?* :)
 
 #### Quickstart
 
