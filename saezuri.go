@@ -58,7 +58,7 @@ var (
 	timestamp string
 	msgstr string
 	menu_saezuri_message = "A Go + ebiten GNU Social client\n"
-	menu_saezuri_url = "https://www.github.com/soon(tm)\n"
+	menu_saezuri_url = "https://github.com/saezuri-eb\n"
 	menu_keybindings_title = "Keybindings :\n"
 	menu_keybind1 = "   Shift+H: Show home timeline\n"
 	menu_keybind2 = "   Shift+O: Show own timeline\n"
