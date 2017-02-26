@@ -2,7 +2,7 @@
 
 an unfinished Go toy implementation of a GNU Social client made with Golang and ebiten (https://hajimehoshi.github.io/ebiten) 
 
-![Gif](images/gifs/output.gif)
+![Gif](images/output.gif)
 
 #### What is it good for ?
 
