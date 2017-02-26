@@ -2,7 +2,7 @@
 
 an unfinished Go toy implementation of a GNU Social client made with Golang and ebiten (https://hajimehoshi.github.io/ebiten) 
 
-![Gif](images/gifs/output4.gif)
+![Gif](images/gifs/output.gif)
 
 #### What is it good for ?
 
@@ -16,13 +16,14 @@ Everything not listen in *What is it good for ?* :)
 
 You need at these prerequisites :
 
++ Golang
 + Linux with GLX driver.
 
 clone the repository then create a file called saezuri.conf within the project folder and fill it with your login details :
 
 	username
 	password
-	instance url
+	instance_url (e.g https://quitter.se)
 
 Within the source directory, build & launch saezuri :
 
