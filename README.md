@@ -25,7 +25,7 @@ clone the repository then create a file called saezuri.conf within the project f
 	password
 	instance_url (e.g https://quitter.se)
 
-Within the source directory, build & launch saezuri :
+Within the source directory, build & launch saezuri-eb :
 
     export GOPATH=/home/username/go/
     cd /home/username/go/saezuri-eb
