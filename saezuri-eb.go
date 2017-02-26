@@ -444,7 +444,7 @@ func create_generic_call() {
 
 func api_generic_call(args []string) {
     // execute the call with curl, grab output
-    fmt.Printf("api_call :%s %s\n", app, args) // debug WARN : This display user/pwd on console
+    //fmt.Printf("api_call :%s %s\n", app, args) // debug WARN : This display user/pwd on console
     if cmdOut, err := exec.Command(app, args...).Output(); err == nil {
       xml_parse(cmdOut)
     } else {
